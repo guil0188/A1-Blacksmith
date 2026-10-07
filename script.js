@@ -7,7 +7,7 @@
 // Check if the forge has at least 30 heat.
 // If there is enough heat, subtract 30 heat.
 // Increase the number of swords by one.
-// Display a message saying the sword was made.
+// Displays a message saying the sword was made.
 // If there isn't enough heat, display a failure message.
 // Update the page to show the current forge information.
 
